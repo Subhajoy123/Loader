@@ -1,5 +1,0 @@
-Changes 
-1. Changed colour tone
-2. Changed mobile nav text aligned
-3. preloader enabled
-4. icon/logo changed/added header
