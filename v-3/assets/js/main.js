@@ -26,6 +26,8 @@
     effect: 'coverflow',
     grabCursor: true,
     centeredSlides: true,
+    observer: true,  
+    observeParents: true,
     slidesPerView: 'auto',
     coverflowEffect: {
       rotate: 50,
